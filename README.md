@@ -1,5 +1,7 @@
 # Lexical-Analyzer
 Implementation of Lexical Analysis phase of the compiler
 
+### Sourcerer [![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Lexical-Analyzer/images/0)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Lexical-Analyzer/links/0)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Lexical-Analyzer/images/1)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Lexical-Analyzer/links/1)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Lexical-Analyzer/images/2)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Lexical-Analyzer/links/2)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Lexical-Analyzer/images/3)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Lexical-Analyzer/links/3)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Lexical-Analyzer/images/4)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Lexical-Analyzer/links/4)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Lexical-Analyzer/images/5)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Lexical-Analyzer/links/5)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Lexical-Analyzer/images/6)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Lexical-Analyzer/links/6)[![](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Lexical-Analyzer/images/7)](https://sourcerer.io/fame/ParthPathak27/ParthPathak27/Lexical-Analyzer/links/7)
+
 ### Output: 
 ![Output](output.png)
